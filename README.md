@@ -43,26 +43,3 @@
   <li><a href="https://www.chadl.org">Blog</li>
   <li><a href="mailto:chad.lines1@gmail.com">Email</li>
 </ul>
-
-
-
-
-<a href="https://www.linkedin.com/in/chadlines/" target="_blank">
-   <img align="center" alt="Chad Lines | Linkedin " width="32px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"</a> 
-
-
-  
-<!--
-**Chad-Lines/Chad-Lines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
