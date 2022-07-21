@@ -36,6 +36,32 @@
   <li><a href="https://github.com/Chad-Lines/Map-Class">Map Class</a> - A class for PhaserJS that is used to create procedurally-generated dungeons. I was pretty proud of this. 😄</li>
 </ul>
 
+<h2>🔭Tech I Like Working With (Inclusively)</h2>
+<span>
+
+<img height="50" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png">
+<img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
+
+<img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">
+
+<img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">
+
+<img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
+
+<img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
+
+<img height="50" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/godotengine/godotengine-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/phaserio/phaserio-ar21.svg">
+
+</span>
 
 <h2>📫 You can reach me...</h2>
 <ul>
