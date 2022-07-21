@@ -6,7 +6,10 @@
 <h1> Hi, I'm Chad. Welcome to my Github Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 <p><strong>Hi, I'm Chad.</strong> I'm a <strong>tech professional</strong> with over a <emphasis>decade</emphasis> of experience in technology leadership, with an emphasis on coaching and mentoring others while being focused on results and improvement.</p>
-<p>I'm a <strong>tinkerer by nature</strong>; I love inspecting code, taking things apart, and putting it back together in new ways. The projects and experiences that I value the most are the ones that have allowed me to stretch and test my abilities, to learn and discover new things!</p>
+
+<p>I'm a <strong>tinkerer by nature</strong>; I love playing with code, and building things that are useful or fun (or both!). The projects and experiences that I value the most are the ones that have allowed me to stretch and test my abilities, to learn and discover new things!</p>
+
+<p>I'm also a <strong>passionate teacher</strong>. One of the things that I love about learning is being able to turn around and share what I've learned with others. I love seeing people find something that they're passionate about, and watch as they "leave the nest" to begin exploring and tinkering on their own.
 
 <h2>🎯 Here are some projects I've been working on...</h2>
 <h3><span style="color:green">C#</span></h3>
