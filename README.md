@@ -1,10 +1,11 @@
+
 <div align="center">
   <h1> Hi, I'm Chad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 </div>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/chadlines/" target="_blank">
-   <img align="center" alt="Chad Lines | Linkedin " width="40px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"</a> 
+   <img align="center" alt="Chad Lines | Linkedin " width="32px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"</a> 
 
 </div>
   
