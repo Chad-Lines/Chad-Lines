@@ -16,6 +16,7 @@
 <ul>
   <li><a href="https://github.com/Chad-Lines/Project-Management-App">Issue Tracking System</a> - A ticket/issue tracker written in C#, with MySql- will have a desktop, web, and mobile implementation</li>
   <li><a href="https://github.com/Chad-Lines/Schedule-Manager">Schedule Manager</a> - A simple calendar and task management app build in C# and MySQL</li>
+  <li><a href="https://github.com/Chad-Lines/Download-Manager-Service">Download Manager</a> - A quick-and-dirty program that moves files to directories based on file extension</li>
   <li><a href="https://github.com/Chad-Lines/Mobile-Academic-App">Mobile Academic App</a> - An app that allows users to manage terms, courses, and assessments - uses Xamarin and SQLite</li>
   <li><a href="https://github.com/Chad-Lines/Inventory-Management">Inventory Management</a> - A simple Windows app in C# that allows managing a simple inventory</li>
   <li><a href="https://github.com/Chad-Lines/3PS-Prototype">3PS-Prototype</a> - A <strong>very</strong> "In Progress" prototype for 3rd person shooter game written in C# and using the Unity game engine.</li>
