@@ -47,9 +47,7 @@
 <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
 
 <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
 
-<img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">
 <img height="50" src="https://1000marcas.net/wp-content/uploads/2020/12/Visual-Studio-Logo.png">
 
 <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
@@ -60,17 +58,11 @@
 <img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
 
-
-
-
 <img height="50" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/2d83d34a-b844-4fda-8550-438365b03c70/d5cki5j-bc735099-7ef7-4389-8e7a-4e0151873a13.png">
 <img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
 
-
-
 <img height="50" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/godotengine/godotengine-ar21.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/phaserio/phaserio-ar21.svg">
 
 </span>
