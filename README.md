@@ -22,6 +22,7 @@
 <h3>Game Development</h3>
 <ul>
   <li><a href="https://github.com/DriftwoodGaming/RPGAtlas">RPG Atlas</a> - <strong>[JavaScript, Open Source]</strong> - Ongoing contribution; implemented a full-featured quest system, including quest authoring tools, objective tracking, rewards, branching outcomes, failure states, and player journal integration. Contribution was accepted and merged into the project's primary codebase.</li>
+  <li><a href="https://atomiccd.itch.io/in-the-pines">In The Pines</a> - <strong>[Godot]</strong> - A fast-paced, top-down Western auto-shooter where your six-shooter fires automatically at of waves sticky, stinky slimes! </li>
   <li><a href="https://atomiccd.itch.io/scrap-collector">Scrap Collector</a> - <strong>[Unity, C#]</strong> - Fly through 3 precarious levels, avoiding asteroids, unlocking doors, and collecting scrap.</li>
   <li><a href="https://atomiccd.itch.io/curse-of-the-lich">Curse of the Lich</a> - <strong>[Unity, C#]</strong> -a bite-sized rogue-like that pits a brave mercenary against an evil Lich and their heinous fiends.
   <li><a href="https://github.com/Chad-Lines/Dark-Paws">Dark Paws</a> - <strong>[PhaserJS, JavaScript]</strong> - An arcade-style game about defeating evil cats that are invading earth. You can play it <a href="https://gamejolt.com/games/dark-paws/82695">here</a>.</li>
