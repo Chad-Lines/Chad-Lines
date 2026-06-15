@@ -13,7 +13,7 @@
 
 <h2>Here are some projects I've been working on</h2>
 <h3>Data Analysis</h3>
-<ul>
+<ul>  
   <li><a href="https://github.com/Chad-Lines/Data-Projects/blob/main/Netflix%20Data%20Preparation/Project%20Explanation.md">Netflix Data Preparation</a> - <strong>[SQL, Python]</strong> - in-depth cleaning, organization, and preparation of Netflix data
   <li><a href="https://github.com/Chad-Lines/Data-Projects/blob/main/Covid%20Data%20Preparation%20and%20Visualization/Project%20Explanation.md"> Covid Data Preparation and Visualization</a> - <strong>[SQL, Power BI]</strong> - preparing and creating visuals for world-wide COVID data</li>
   <li><a href="https://github.com/Chad-Lines/Data-Projects/blob/main/Coca-Cola%20Sales%20Data%20Visualiation/Project%20Explanation.md">Coca Cola Sales Data Visualization</a> - <strong>[Power BI]</strong> - an analyis of sales data for the Coca-Cola brands, within the contiguous united states.  
@@ -21,6 +21,7 @@
 
 <h3>Game Development</h3>
 <ul>
+  <li><a href="https://github.com/DriftwoodGaming/RPGAtlas">RPG Atlas</a> - <strong>[JavaScript, Open Source]</strong> - Ongoing contribution; implemented a full-featured quest system, including quest authoring tools, objective tracking, rewards, branching outcomes, failure states, and player journal integration. Contribution was accepted and merged into the project's primary codebase.</li>
   <li><a href="https://atomiccd.itch.io/scrap-collector">Scrap Collector</a> - <strong>[Unity, C#]</strong> - Fly through 3 precarious levels, avoiding asteroids, unlocking doors, and collecting scrap.</li>
   <li><a href="https://atomiccd.itch.io/curse-of-the-lich">Curse of the Lich</a> - <strong>[Unity, C#]</strong> -a bite-sized rogue-like that pits a brave mercenary against an evil Lich and their heinous fiends.
   <li><a href="https://github.com/Chad-Lines/Dark-Paws">Dark Paws</a> - <strong>[PhaserJS, JavaScript]</strong> - An arcade-style game about defeating evil cats that are invading earth. You can play it <a href="https://gamejolt.com/games/dark-paws/82695">here</a>.</li>
