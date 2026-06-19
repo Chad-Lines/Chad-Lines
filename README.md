@@ -17,7 +17,7 @@ Outside of work, I enjoy building things simply because they're interesting. You
 
 ## Open Source
 
-## RPG Atlas
+### RPG Atlas
 
 Created by [Driftwood Gaming](https://github.com/DriftwoodGaming), [RPG Atlas](https://github.com/DriftwoodGaming/RPGAtlas) is an open-source RPG engine focused on providing reusable systems for RPG development.
 
