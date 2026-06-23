@@ -40,6 +40,7 @@ The contribution was accepted and merged into the project's primary codebase.
 - oca-Cola Sales Analytics (Power BI) | [Reposiroy](https://github.com/Chad-Lines/Data-Projects/blob/main/Coca-Cola%20Sales%20Data%20Visualiation/Project%20Explanation.md)
 
 ### Game Development
+- Trigger-Town Demo (Godot) | [Play](https://atomiccd.itch.io/trigger-town)
 - In The Pines (Godot) | [Play](https://atomiccd.itch.io/in-the-pines)
 - Scrap Collector (Unity) | [Play](https://atomiccd.itch.io/scrap-collector)
 - Curse of the Lich (Unity) | [Play](https://atomiccd.itch.io/curse-of-the-lich)
