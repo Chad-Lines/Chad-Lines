@@ -48,6 +48,9 @@ The contribution was accepted and merged into the project's primary codebase.
 - Evacuation (JavaScript) | [Play](https://gamejolt.com/games/evacuation/104607)
 - MapClass (JavaScript) | [Repository](https://github.com/Chad-Lines/Map-Class)
 
+### APIs
+- DME Order Validator (Python) | [RapidAPI](https://rapidapi.com/ChadLines/api/dme-order-validator)
+
 ### Applications
 - FlashCards (Python, Flask, SQL) | [Repository](https://github.com/Chad-Lines/FlashCard-App)
 - Evaluate Steam Library (Python, Flask) | [Repository](https://github.com/Chad-Lines/Which_Game)
