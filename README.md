@@ -50,6 +50,7 @@ The contribution was accepted and merged into the project's primary codebase.
 
 ### APIs
 - DME Order Validator (Python) | [RapidAPI](https://rapidapi.com/ChadLines/api/dme-order-validator)
+- Screenshot Capture (Python) | [RapidAPI](https://rapidapi.com/ChadLines/api/screenshot38)
 
 ### Applications
 - FlashCards (Python, Flask, SQL) | [Repository](https://github.com/Chad-Lines/FlashCard-App)
