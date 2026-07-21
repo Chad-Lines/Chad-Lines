@@ -53,7 +53,7 @@ The contribution was accepted and merged into the project's primary codebase.
 - Screenshot Capture (Python) | [RapidAPI](https://rapidapi.com/ChadLines/api/screenshot38)
 
 ### Applications
-- yt-dlp Downloader Front End | [Repository](https://github.com/Chad-Lines/crispy-octo-potato)
+- yt-dlp Downloader Front End (Python) | [Repository](https://github.com/Chad-Lines/crispy-octo-potato)
 - FlashCards (Python, Flask, SQL) | [Repository](https://github.com/Chad-Lines/FlashCard-App)
 - Evaluate Steam Library (Python, Flask) | [Repository](https://github.com/Chad-Lines/Which_Game)
 
